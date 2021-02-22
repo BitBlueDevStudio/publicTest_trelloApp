@@ -1,16 +1,36 @@
-# trello_test
+# trello App
 
-A new Flutter application.
+Тестовое задание:
+Необходимо реализовать мобильное приложение kanban доски по аналогии с trello.com
 
-## Getting Started
+Видео-пример - https://yadi.sk/i/Ai0ShSdq36A5OQ
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Требования:
+Использовать Flutter
+Использовать Bloc
+Использовать API - https://trello.backend.tests.nekidaem.ru/redoc/
+Код выложить на github
+Будет плюсом если успеете:
+“Локализация”
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+На выполнение задачи 2-3 дня.
+
+Если будут вопросы, то пишите:
+https://vk.com/kirillim или @mkispb в телеграмм
+
+
+
+Первый экран:
+Форма входа “логин и пароль”
+Логиниться на бэк нужно с данными логина - “armada”  и паролем “FSH6zBZ0p9yH”
+В случае неверного ввода данных отображать ошибки, которые возвращает сервер.
+
+Второй экран:
+Выводим списки “On hold”, “In progress”, “Needs review”, “Approved”
+Выводим карточки в этих списках.
+Перетаскивание между списками делать НЕ нужно.
+На экране должен быть виден один список в единицу времени.
+Переключение между списками должен происходить свайпом влево или вправо.
+На экране должна присутствовать кнопка выхода.
