@@ -1,0 +1,36 @@
+{
+  "@@locale": "ru_RU",
+  "appName": "Trello app",
+  "Screen_1": "Вход",
+  "Screen_2": "Доска",
+
+  "com_Unknown": "Неизвестно",
+  "com_Login": "Вход",
+  "com_exit": "Выход",
+  "com_stay": "Остаться",
+  "com_error": "Ошибка",
+
+  "com_error0": "Что-то пошло не так",
+
+  "dialog_LogoutQuestion": "Вы действительно хотите выйти?",
+  "dialog_LogoutQuestionDescription": "Вам нужно будет снова ввести пароль",
+
+  "ApiError_NotFound": "Не найдено",
+  "ApiError_NoAuth": "Ошибка авторизации",
+  "ApiError_Unexpected": "Неожиданная ошибка сервера",
+
+  "com_ListGroup0" : "On hold",
+  "com_ListGroup1" : "Todo",
+  "com_ListGroup2" : "In progress",
+  "com_ListGroup3" : "Need review",
+  "com_ListGroup4" : "Approved",
+
+  "FormLogin_fieldNameText": "Имя пользователя",
+  "FormLogin_fieldPasswordText": "Пароль",
+  "FormLogin_fieldError": "Это поле должно быть длиннее",
+
+  "board_ErrorEmpty": "Доска пуста. Ноль карточек во всех списках",
+  "board_ErrorEmptyList": "Нет карточек"
+
+
+}

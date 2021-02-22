@@ -1,0 +1,35 @@
+{
+  "@@locale": "en",
+  "appName": "Trello app",
+  "Screen_1": "Login screen",
+  "Screen_2": "Board",
+
+  "com_Unknown": "Unknown",
+  "com_Login": "Login",
+  "com_exit": "Exit",
+  "com_stay": "Stay",
+  "com_error": "Error",
+
+  "com_error0" : "Something went wrong",
+
+  "dialog_LogoutQuestion": "Do you really want to log out?",
+  "dialog_LogoutQuestionDescription": "You will need to enter password again",
+
+  "ApiError_NotFound" : "Not found error",
+  "ApiError_NoAuth" : "Authorization error",
+  "ApiError_Unexpected" : "Unexpected server error",
+
+  "com_ListGroup0" : "On hold",
+  "com_ListGroup1" : "Todo",
+  "com_ListGroup2" : "In progress",
+  "com_ListGroup3" : "Need review",
+  "com_ListGroup4" : "Approved",
+
+  "FormLogin_fieldNameText": "User name",
+  "FormLogin_fieldPasswordText": "Password",
+  "FormLogin_fieldError": "This field should be longer",
+
+  "board_ErrorEmpty" : "Board is empty. Zero cards in all lists",
+  "board_ErrorEmptyList" : "No cards"
+
+}
